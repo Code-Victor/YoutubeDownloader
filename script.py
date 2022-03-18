@@ -58,9 +58,5 @@ class GetYoutubeVideo:
         self.get_video()
     
 
-# youtube=getyoutubevideo(url="https://www.youtube.com/watch?v=VEQaH4LruUo")
-# youtube.alltogether()
-
-# print(YouTube("https://youtu.be/_YPScrckx28").streams.filter(progressive=True).get_highest_resolution().resolution)
-youtube=GetYoutubeVideo(url="https://www.youtube.com/watch?v=zrs7u6bdbUw")
-youtube.all_together()
+youtube=GetYoutubeVideo(url="https://www.youtube.com/watch?v=Z5iWr6Srsj8")
+#youtube.all_together()
